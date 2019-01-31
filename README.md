@@ -39,9 +39,9 @@ Discussed below are the four major Tasks:
 
 #### Task: 
 
-> Given an unweighted, undirected graph `G = ⟨V,E⟩`  representing the topological structure of a social network in which each edge `e = ⟨u,v⟩ ∈ E`  represents an interaction between u and v that took place at a particular time `t(e)` , the two task can be described as:
->
-> * **To find the highly influencing/ central node set N.**
+ Given an unweighted, undirected graph `G = ⟨V,E⟩`  representing the topological structure of a social network in which each edge `e = ⟨u,v⟩ ∈ E`  represents an interaction between u and v that took place at a particular time `t(e)` , the two task can be described as:
+
+ * **To find the highly influencing/ central node set N.**
 
 
 ### Representation:
