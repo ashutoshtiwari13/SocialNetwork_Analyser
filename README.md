@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-> If we want to know who is the most central in a network, that seems like an easy question, just count how many people they are linked to, right? But what if they are only linked to people who are disconnected themselves? The analyser provides a solution to this with succinct visualization.
+If we want to know who is the most central in a network, that seems like an easy question, just count how many people they are linked to, right? But what if they are only linked to people who are disconnected themselves? The analyser provides a solution to this with succinct visualization.
 
 
 
@@ -19,7 +19,7 @@ The following model can be extended or modified to cater to the needs of various
 Discussed below are the four major Tasks:
 
 ### Acquisition & Learning
-##### Data: 
+#### Data: 
 * Acquired from http://snap.stanford.edu/data/egonets-Facebook.html
 
 * This dataset consists of 'circles' (or 'friends lists') from Facebook.
@@ -37,7 +37,7 @@ Discussed below are the four major Tasks:
 
 
 
-##### Task: 
+#### Task: 
 
 > Given an unweighted, undirected graph `G = ⟨V,E⟩`  representing the topological structure of a social network in which each edge `e = ⟨u,v⟩ ∈ E`  represents an interaction between u and v that took place at a particular time `t(e)` , the two task can be described as:
 >
@@ -45,13 +45,13 @@ Discussed below are the four major Tasks:
 
 
 ### Representation:
-##### Data: 
+#### Data: 
 
 * In order to represent complex data structure of a graph with various features attached to each node, `python-igraph` has been used.
 * `Dictionary Data Structure` is deployed to store the corresponding features of each node.
 
 ### Development and Explanation:
-##### Approach:
+#### Approach:
 
 * ***Measures for Centrality***  : As our part of analysis, we used the following 4 centrality measures:
   * `Degree of nodes` : 
@@ -72,7 +72,7 @@ Discussed below are the four major Tasks:
     * Output: value [0,1] 
 
 
-##### Python Libraries used:
+#### Python Libraries used:
 
 * `Plotly` : Graphing library for making interactive, publication-quality graphs online. 
 * `python-iGraph` : igraph is a collection of network analysis tools with the emphasis on efficiency**, **portability and ease of use. igraph is open source and free. 
