@@ -27,7 +27,7 @@ Discussed below are the four major Tasks:
 
 * This anonymized dataset includes node features (profiles), circles, and ego networks.
 
-* The edges are **undirected** .
+* The edges are **undirected** 
 
 *  10 ego-networks, consisting of 193 circles and 4,039 users.
 
