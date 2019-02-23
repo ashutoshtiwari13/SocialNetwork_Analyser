@@ -23,7 +23,7 @@ Discussed below are the four major Tasks:
 #### Data: 
 * Acquired from http://snap.stanford.edu/data/egonets-Facebook.html
 
-* This dataset consists of 'circles' (or 'friends lists') from Facebook.
+* The following dataset consists of 'circles' (or 'friends lists') from Facebook.
 
 * This anonymized dataset includes node features (profiles), circles, and ego networks.
 
