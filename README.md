@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-If we want to know who is the most central in a network, that seems like an easy question, just count how many people they are linked to, right? But what if they are only linked to people who are disconnected themselves? The analyser provides a solution to this with succinct visualization.
+If we want to know who is the most central in a network, that seems like an easy question, just count how many people they are linked to, right !? But what if they are only linked to people who are disconnected themselves? The analyser provides a solution to this with succinct visualization.
 
 
 
