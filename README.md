@@ -73,7 +73,7 @@ Discussed below are the four major Tasks:
     * Output: value [0,1] 
 
 
-#### Python Libraries used:
+#### Python Libraries:
 
 * `Plotly` : Graphing library for making interactive, publication-quality graphs online. 
 * `python-iGraph` : igraph is a collection of network analysis tools with the emphasis on efficiency**, **portability and ease of use. igraph is open source and free. 
