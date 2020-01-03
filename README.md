@@ -7,7 +7,7 @@ If we want to know who is the most central in a network, that seems like an easy
 
 
 ## Motivation
-The edges described in the problem statement could be of any form: friendship, collaboration, following or mutual interests. Here, we specifically study and build our model over Facebook's social network, with the following areas of motivation:
+The edges described in the problem statement could be in any form: friendship, collaboration, following or mutual interests. Here, we specifically study and build our model over Facebook's social network, with the following areas of motivation:
 
 * General application of friends recommendation to a particular user.
 * Predicting hidden links in a social network group formed by terrorists along with identification of their leaders/ key
