@@ -1,4 +1,4 @@
-# Analysis of Centrality -Finding Most Influential Person in a Social Network 
+# Analysis of Centrality- To find Most Influential Person in a Social Network 
 
 ## Problem Statement
 
@@ -19,7 +19,7 @@ The following model can be extended or modified to cater to the needs of various
 
 Discussed below are the four major Tasks:
 
-### Acquisition & Learning
+### Acquisition && Learning
 #### Data: 
 * Acquired from http://snap.stanford.edu/data/egonets-Facebook.html
 
@@ -38,7 +38,7 @@ Discussed below are the four major Tasks:
 
 
 
-#### Task: 
+#### Task at Hand: 
 
  Given an unweighted, undirected graph `G = ⟨V,E⟩`  representing the topological structure of a social network in which each edge `e = ⟨u,v⟩ ∈ E`  represents an interaction between u and v that took place at a particular time `t(e)` , the two task can be described as:
 
